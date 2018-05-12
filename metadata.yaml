@@ -1,0 +1,42 @@
+_repo: Le-diable-boiteux-tome-I_35019
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Lesage, Alain-René
+    - Sage, Alain-René le
+    - Le Sage, Alain Rene
+    - Sage, Alain René Le
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+  editor:
+    agent_name: Jannet, Pierre
+    birthdate: 1820
+    deathdate: 1870
+    gutenberg_agent_id: '37398'
+    url: http://www.gutenberg.org/2009/agents/37398
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35019'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+- !lcsh 'Devil -- Fiction'
+- !lcsh 'Madrid (Spain) -- Fiction'
+- !lcsh 'Good and evil -- Fiction'
+title: Le diable boiteux, tome I
+url: http://www.gutenberg.org/ebooks/35019
